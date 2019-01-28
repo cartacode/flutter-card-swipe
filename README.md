@@ -22,7 +22,7 @@ Creating the swipe view as used in the Tinder. Swipe right is considered accepte
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/simba999/flutter-card-swipe.git
+    $ git clone https://github.com/it-avenger/flutter-card-swipe.git
     $ cd flutter-card-swipe/animation_exp
     $ flutter run
 
